@@ -15,7 +15,7 @@ pip install -e 'packages/markitdown[all]'
 ```
 
 
--- For marker:
+## For marker:
 
 Activate the virtual environment
 
