@@ -12,6 +12,7 @@ source .venv/bin/activate
 git clone https://github.com/microsoft/markitdown.git 
 cd markitdown
 pip install -e 'packages/markitdown[all]'
+```
 
 
 -- For marker:
