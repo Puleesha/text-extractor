@@ -5,6 +5,12 @@ brew install python@3.10
 /opt/homebrew/bin/python3.10 -m venv .venv
 source .venv/bin/activate
 ```
+for macos, or 
+```bash
+pip install python@3.10
+python -m venv .venv
+.venv\Scripts\activate
+```for windows.
 
 2. Clone the repo in the .venv and install packages
 
@@ -17,13 +23,18 @@ pip install -e 'packages/markitdown[all]'
 
 ## For marker:
 
-Activate the virtual environment
+1. Activate the virtual environment
 
 ```bash
 source .venv/bin/activate
 ```
+for macos, or 
+```bash
+.venv\Scripts\activate
+```
+for windows.
 
-Then install the dependency and start the analysis (very RAM heavy!!!)
+2. Then install the dependency and start the analysis (very RAM heavy!!!)
 
 ```bash
 pip install marker-pdf
