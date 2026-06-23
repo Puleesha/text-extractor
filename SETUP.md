@@ -50,12 +50,24 @@ brew install python@3.10
 /opt/homebrew/bin/python3.10 -m venv .venv
 source .venv/bin/activate
 ```
+for macos, or 
+```bash
+.venv\Scripts\activate
+```
+for windows.
 
 2. Install camelot
 
 ```bash
 pip install camelot-py
 pip install tabulate
+```
+
+3. Run the script
+
+for macos, or 
+```bash
+python script.py
 ```
 
 

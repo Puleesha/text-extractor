@@ -23,6 +23,6 @@ def camelotFunc():
         pageCount = document.page_count
 
     tables = camelot.read_pdf(pdf_path, pages=f"1 - {pageCount}", flavor="stream")
-    print(tables[3].to_csv("odel.csv"))
+    print(tables[2])
 
 camelotFunc()
