@@ -1,2 +1,3 @@
-1. Use pymupdf to extract all the tables in the doc for every page.
-2. For each table, check whether one of the words or aliases are present in the table, if so add it to an array.
+1. Based on the results attached, marker is the only tool that gives decent enough accuracy for the extraction.
+2. However, it is costly, so try to filter out unnecessry pages and specify only the needed page range
+3. The filtering can be done via cheap tools but make sure they are reliable

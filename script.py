@@ -1,19 +1,29 @@
 import pymupdf
-# import pymupdf.layout
-# import pymupdf4llm
+import pymupdf.layout
+import pymupdf4llm
 
 import camelot
 import os, sys, time
 
 # Pymupdf
-def pumupdfFunc():
+def pymupdfFunc():
     doc = pymupdf.open("odel_report.pdf")
-    pageOne = doc[1]
+    pageThree = doc[3]
 
-    # allTables = pageOne.find_tables()
-    # table1 = allTables.tables[0]
+    allTables = pageThree.find_tables()
+    table1 = allTables.tables[0]
 
-    print(pageOne.get_text())
+    markdown = table1.to_markdown()
+
+    with open("results/pymupdf.md", "w", encoding="utf-8") as f:
+        f.write(markdown)
+
+# Pymupdf4llm
+def pymupdf4llmFunc():
+    md = pymupdf4llm.to_markdown("odel_report.pdf")
+
+    with open("results/pymupdf4llm.md", "w", encoding="utf-8") as f:
+        f.write(md)
 
 # Camelot
 def camelotFunc():
@@ -23,6 +33,6 @@ def camelotFunc():
         pageCount = document.page_count
 
     tables = camelot.read_pdf(pdf_path, pages=f"1 - {pageCount}", flavor="stream")
-    print(tables[2])
+    print(tables[3].to_csv("results/camelot.csv"))
 
-camelotFunc()
+pymupdfFunc()

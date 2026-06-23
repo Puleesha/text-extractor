@@ -1,0 +1,69 @@
+|As at 30th September 2025 Group|Col2|Unaudited|Col4|Col5|Unaudited|Unaudited|
+|---|---|---|---|---|---|---|
+|**Group**||Unaudited|||Unaudited|Unaudited|
+|||**30-09-2025**|||**30-09-2024**|**31-03-2025**|
+|||**LKR**|||LKR|LKR|
+|**ASSETS**|||||||
+|Non Current Assets|||||||
+|Property, plant & equipment||3,692,249,117|||3,843,610,504|3,752,854,808|
+|Investment property||-|||1,952,500,000|1,173,700,000|
+|Right of use assets||1,747,724,411|||2,195,941,754|2,041,175,175|
+|Other non current assets||1V8,205,917,369|||18,117,502,755|17,973,558,774|
+|Intangible assets||27,216,633|||81,085,812|54,151,454|
+|Other financial assets||199,738,878|||247,167,458|183,699,890|
+|Goodwill||445,565,053|||445,565,053|445,565,053|
+|Deferred tax asset||1,515,496,153|||889,558,600|1,515,496,153|
+|||25,833,907,613|||27,772,931,936|27,140,201,307|
+||||||||
+|Current Assets|||||||
+|Inventories||1,713,818,126|||1,544,888,691|1,716,418,860|
+|Trade and other receivables||1,977,664,122|||1,273,207,196|1,234,137,600|
+|Amounts due from related parties||1,400,594,426|||170,180,711|173,006,651|
+|Income Tax Refund Due||131,775,012|||141,823,521|123,836,489|
+|Other current assets||490,999,418|||490,618,187|528,386,922|
+|Other financial assets||76,167,002|||5,190,243|77,125,887|
+|Cash and bankbalances||284,396,034|||206,612,697|138,969,879|
+|||6,075,414,140|||3,832,521,247|3,991,882,289|
+||||||||
+|Total Assets||31,909,321,753|||31,605,453,183|31,132,083,596|
+||||||||
+|**EQUITY AND LIABILITIES**|||||||
+|Equity|||||||
+|Stated capital||6,030,335,731|||6,030,335,731|6,030,335,731|
+|Revaluation surplus||3,956,153,123|||4,156,442,953|4,196,525,101|
+|Retained earnings||(13,117,615,119)|||(10,466,301,494)|(11,712,007,472)|
+|||(3,131,126,264)|||(279,522,809)|(1,485,146,639)|
+||||||||
+|Non Current Liabilities|||||||
+|Interest bearing borrowings||11,211,645,754|||9,025,178,862|10,644,355,490|
+|Deferred tax liabilities||115,884,226|||1,046,216,968|155,994,226|
+|Other non current liabilities||622,036,476|||729,707,096|629,000,027|
+|Operating lease liability||1,502,582,951|||1,780,051,388|1,654,125,056|
+|Retirement benefit liability||162,480,886|||154,290,979|167,463,331|
+|||13,614,630,293|||12,735,445,292|13,250,938,130|
+||||||||
+|Current Liabilities|||||||
+|Trade payables||615,935,640|||700,955,195|516,750,371|
+|Other payables||7,524,501,577|||5,840,650,818|6,405,929,038|
+|Amounts due to related parties||3,549,490,392|||1,289,732,140|2,943,345,425|
+|Income tax payable||34,691,023|||20,236,303|34,691,023|
+|Interest bearing borrowings|S|9,276,594,648|S|S|10,746,167,180|8,923,988,608|
+|Operating lease liability||424,604,445|||551,789,064|541,587,641|
+|||21,425,817,725|||19,149,530,700|19,366,292,106|
+||||||||
+|Total Equity and Liabilities||31,909,321,753|||31,605,453,183|31,132,083,596|
+|||-|||-|-|
+|Net asset per share||(5.82)|||(0.52)|(2.76)|
+|These financial statements are in compliance with the requirements of the Companies Act No 7 of 2007|These financial statements are in compliance with the requirements of the Companies Act No 7 of 2007|These financial statements are in compliance with the requirements of the Companies Act No 7 of 2007|These financial statements are in compliance with the requirements of the Companies Act No 7 of 2007|These financial statements are in compliance with the requirements of the Companies Act No 7 of 2007|These financial statements are in compliance with the requirements of the Companies Act No 7 of 2007||
+|Sgd.|||||||
+|……………………………|||||||
+|** Indika Gamage**|||||||
+|** Chief Financial Officer**|||||||
+|The board of directors is responsible for these|Financial Statements. Signed for and on behalf of the board by|Financial Statements. Signed for and on behalf of the board by|Financial Statements. Signed for and on behalf of the board by|Financial Statements. Signed for and on behalf of the board by|Financial Statements. Signed for and on behalf of the board by||
+|Sgd.||||||Sgd.|
+|……………………………|||||…………………………….|…………………………….|
+|**A.K Pathirage**||||||**H.K Kaimal**|
+|**Chairman**||||||**Director**|
+|Date : 15 November 2025|||||||
+|Colombo|||||||
+
