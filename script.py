@@ -39,15 +39,15 @@ def camelotFunc():
 
 # Docling
 def doclingFunc():
-    source = "odel_report.pdf"
+    source = "crappy_report.pdf"
     converter = DocumentConverter()
     doc = converter.convert(source).document
     markdown_content = doc.export_to_markdown()
 
-    with open("results/docling.md", "w", encoding="utf-8") as f:
+    with open("results/crappyDocling.md", "w", encoding="utf-8") as f:
         f.write(markdown_content)
 
-    print("Markdown saved to results/docling.md")
+    print("Markdown saved to results folder")
 
 # pymupdfFunc()
 # pymupdf4llmFunc()
