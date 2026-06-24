@@ -70,5 +70,17 @@ for macos, or
 python script.py
 ```
 
+## For docling
+
+1. Create the virtual environment as shown above.
+
+2. Open VS code as administrator and enable developer mode. 
+
+3. Install docling
+```bash
+pip install docling
+```
+
+4. Run the docling function in the main script. 
 
 

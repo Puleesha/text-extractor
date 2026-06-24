@@ -5,6 +5,8 @@ import pymupdf4llm
 import camelot
 import os, sys, time
 
+from docling.document_converter import DocumentConverter
+
 # Pymupdf
 def pymupdfFunc():
     doc = pymupdf.open("odel_report.pdf")
@@ -35,4 +37,19 @@ def camelotFunc():
     tables = camelot.read_pdf(pdf_path, pages=f"1 - {pageCount}", flavor="stream")
     print(tables[3].to_csv("results/camelot.csv"))
 
-pymupdfFunc()
+# Docling
+def doclingFunc():
+    source = "odel_report.pdf"
+    converter = DocumentConverter()
+    doc = converter.convert(source).document
+    markdown_content = doc.export_to_markdown()
+
+    with open("results/docling.md", "w", encoding="utf-8") as f:
+        f.write(markdown_content)
+
+    print("Markdown saved to results/docling.md")
+
+# pymupdfFunc()
+# pymupdf4llmFunc()
+# camelotFunc()
+doclingFunc()
